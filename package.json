@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.x.x",
+    "@react-navigation/stack": "^6.x.x",
+    "axios": "^0.x.x",
+    "react": "^18.1.0",
+    "react-native": "^0.76.6",
+    "react-native-gesture-handler": "^2.x.x",
+    "react-native-reanimated": "^2.x.x",
+    "react-native-screens": "^3.x.x",
+    "react-navigation": "^4.x.x",
+    "react-navigation-stack": "^2.x.x"
+  }
+}
